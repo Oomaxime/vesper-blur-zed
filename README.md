@@ -1,17 +1,16 @@
 # VesperBlur - Zed Theme with macOS Transparency
 
-An elegant dark theme for the Zed editor, inspired by Vesper with native macOS transparency.
+An elegant dark theme for the Zed editor, inspired by Vesper with transparency.
 
 ## 🎨 Overview
 
-VesperBlur combines the signature "peppermint and orange" color palette from the original Vesper theme with native macOS transparency and blur effects, creating a modern and aesthetic coding experience.
+VesperBlur combines the signature "peppermint and orange" color palette from the original Vesper theme with transparency and blur effects, creating a modern and aesthetic coding experience.
 
 ### Key Features
 
-- ✨ **Native macOS transparency** with automatic blur effects
+- ✨ **Transparency** with automatic blur effects
 - 🍑 **Authentic Vesper palette**: peach orange (#FFC799) and turquoise (#99FFE4)
 - 🔍 **Optimized readability** with carefully adjusted contrast ratios
-- 🖥️ **Perfect integration** with Apple ecosystem
 - 🎯 **All UI elements** adapted for transparency
 
 ## 📦 Installation
@@ -23,10 +22,10 @@ VesperBlur combines the signature "peppermint and orange" color palette from the
    ```bash
    # macOS
    cp themes/vesper-blur.json ~/Library/Application\ Support/Zed/themes/
-   
+
    # Linux
    cp themes/vesper-blur.json ~/.config/zed/themes/
-   
+
    # Windows
    # Copy to %APPDATA%\\Zed\\themes\\
    ```
