@@ -20,11 +20,8 @@ VesperBlur combines the signature "peppermint and orange" color palette from the
 1. Download `vesper-blur.json` from the `themes/` folder
 2. Copy to your Zed themes directory:
    ```bash
-   # macOS
-   cp themes/vesper-blur.json ~/Library/Application\ Support/Zed/themes/
-
-   # Linux
-   cp themes/vesper-blur.json ~/.config/zed/themes/
+   # macOS & Linux
+   cp themes/VesperBlur.json ~/.config/zed/themesclaud
 
    # Windows
    # Copy to %APPDATA%\\Zed\\themes\\
@@ -32,18 +29,8 @@ VesperBlur combines the signature "peppermint and orange" color palette from the
 
 3. In Zed: `Cmd+,` → Theme → "VesperBlur Dark"
 
-### Method 2: As Zed Extension (Recommended)
 
-1. Clone this repository
-2. Copy the entire folder to Zed extensions directory:
-   ```bash
-   # macOS
-   cp -r . ~/Library/Application\ Support/Zed/extensions/vesper-blur/
-   ```
-
-3. Restart Zed and select the theme in preferences
-
-### Method 3: Via Zed Extensions Registry
+### Method 2: Via Zed Extensions Registry
 
 Coming soon! This theme will be submitted to the official Zed extensions registry.
 
