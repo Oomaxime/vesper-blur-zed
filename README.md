@@ -21,7 +21,7 @@ VesperBlur combines the signature "peppermint and orange" color palette from the
 2. Copy to your Zed themes directory:
    ```bash
    # macOS & Linux
-   cp themes/VesperBlur.json ~/.config/zed/themesclaud
+   cp themes/VesperBlur.json ~/.config/zed/themes/VesperBlur.json
 
    # Windows
    # Copy to %APPDATA%\\Zed\\themes\\
@@ -43,15 +43,8 @@ Coming soon! This theme will be submitted to the official Zed extensions registr
 | Pure White | `#FFFFFF` | Primary text, variables |
 | Light Gray | `#A0A0A0` | Secondary text, operators |
 | Medium Gray | `#7E7E7E` | Placeholders, line numbers |
-| Transparent Black | `#10101080` | Backgrounds with 50% alpha |
+| Black | `0F0F11` | Backgrounds |
 
-## 🔧 Customization
-
-To adjust transparency levels, modify the alpha values in `themes/vesper-blur.json`:
-
-- `80` = 50% transparency (recommended for panels)
-- `60` = 63% transparency (inactive tabs)
-- `40` = 75% transparency (subtle elements)
 
 ## 🤝 Contributing
 
