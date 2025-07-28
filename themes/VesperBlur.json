@@ -346,22 +346,22 @@
         },
         "terminal": {
           "ansi": {
-            "black": "#0f0f11",
-            "red": "#f5a191",
-            "green": "#90b99f",
-            "yellow": "#e6b99d",
-            "blue": "#aca1cf",
-            "magenta": "#e29eca",
-            "cyan": "#ea83a5",
-            "white": "#A0A0A0",
-            "bright_black": "#282828",
-            "bright_red": "#f5a191",
-            "bright_green": "#90b99f",
-            "bright_yellow": "#e6b99d",
-            "bright_blue": "#aca1cf",
-            "bright_magenta": "#e29eca",
-            "bright_cyan": "#ea83a5",
-            "bright_white": "#FFFFFF"
+            "black": "#1A1A1A",
+            "red": "#C95954",
+            "green": "#85BA64",
+            "yellow": "#CBAA89",
+            "blue": "#A7A0BD",
+            "magenta": "#9D6994",
+            "cyan": "#74A39E",
+            "white": "#DADADA",
+            "bright_black": "#5B5B5B",
+            "bright_red": "#D29393",
+            "bright_green": "#B3B393",
+            "bright_yellow": "#C0AF8C",
+            "bright_blue": "#5A6599",
+            "bright_magenta": "#B39FB0",
+            "bright_cyan": "#74A39E",
+            "bright_white": "#ffffff"
           }
         }
       }
