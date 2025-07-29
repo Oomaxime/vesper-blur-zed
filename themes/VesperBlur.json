@@ -62,6 +62,8 @@
         "search.background": "#00000000",
         "search.border": "#00000000",
         "panel.background": "#1A1A1A00",
+        "panel.overlay_background": "#1A1A1AE0",
+        "panel.overlay_hover": "#28282880",
         "panel.focused_border": "#FFC799",
         "pane.focused_border": "#FFC799",
         "scrollbar.thumb.background": "#28282880",
